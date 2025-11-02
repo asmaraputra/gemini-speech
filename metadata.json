@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Text-to-Speech",
+  "description": "An application to convert text into high-quality speech using the Gemini API. Type any text, including in Indonesian, select a voice, and listen to the generated audio.",
+  "requestFramePermissions": []
+}
